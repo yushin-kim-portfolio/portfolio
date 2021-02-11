@@ -3,10 +3,13 @@
     "",
     "\\assets",
     "\\assets\\css",
+    "\\assets\\css\\images",
     "\\assets\\js",
     "\\assets\\sass",
+    "\\assets\\sass\\base",
+    "\\assets\\sass\\components",
     "\\images"
   ],
-  "SelectedNode": "\\assets\\webfonts",
+  "SelectedNode": "\\assets\\css\\fontawesome-all.min.css",
   "PreviewInSolutionExplorer": false
 }
